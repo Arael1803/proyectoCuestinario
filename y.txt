@@ -1,0 +1,10 @@
+1|paris
+2|hidrogeno
+3|miguel de Cervantes
+4|mercurio
+5|siete
+6|1969
+7|guepardo
+8|china
+9|pacifico
+10|amazonas
